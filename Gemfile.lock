@@ -202,6 +202,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -210,8 +211,8 @@ DEPENDENCIES
   cssbundling-rails
   debug
   jsbundling-rails
-  pg
   kaminari
+  pg
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.3)
   ransack
